@@ -10,4 +10,3 @@ AI数据可视化平台
 建表语句位置：
 (https://github.com/slplovekwc/BI/blob/e3b5cf20a4072fc268d3a0bc9250d445448389ec/sql/create_table.sql)https://github.com/slplovekwc/BI/blob/e3b5cf20a4072fc268d3a0bc9250d445448389ec/sql/create_table.sql
 
-
